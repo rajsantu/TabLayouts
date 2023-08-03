@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TabLayouts</string>
+    <string name="calls">Calls</string>
+    <string name="status">Status</string>
+    <string name="chats">Chats</string>
+    <string name="calls_fragment">Calls Fragment</string>
+    <string name="chat_fragment">Chat Fragment</string>
+    <string name="status_fragment">Status Fragment</string>
+</resources>
